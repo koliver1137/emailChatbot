@@ -1,0 +1,9 @@
+{
+    "TempList": [
+        {
+            "Example User1 <example@domain.com>": "temp1",
+            "Example User2 <example2@domain.com>": "temp2",
+            "Example User3 <example3@domain.com>": "temp3",
+        }
+    ]
+}
